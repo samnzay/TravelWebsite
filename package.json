@@ -1,0 +1,14 @@
+{
+  "name": "travelwebsite",
+  "version": "1.0.0",
+  "description": "Travel Website with Video Background with only CSS, HTML and Javascript",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Samuel NZAYISENGA",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
